@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+
+
+
+.navbar{
+    
+   background-color: black;
+  padding: 35rem 7rem;
+}
+
+
+.navbar navbar-brand{
+     font-size: 1.4rem;
+    font-weight: 700;
+    padding: 1rem 8rem;
+}
+#navbarSupportedContent > ul > li:nth-child(n) > a{
+    color: #fff;
+    font-size: 1.1rem;
+}
